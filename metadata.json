@@ -1,0 +1,7 @@
+{
+  "name": "NOVA RADIO | Studio Julian",
+  "description": "Professional radio management console for Nova Radio with persistent global player and dashboard layout.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
